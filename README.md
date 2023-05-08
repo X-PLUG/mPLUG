@@ -11,6 +11,7 @@ We presents mPLUG, a new vision-language foundation model for both cross-modal u
 
 ## News
 
+* 2023.5.08: Moved from [AliceMind repo](https://github.com/alibaba/AliceMind) for further update.
 * 2022.8.28: Released mPLUG downstream tasks!
 
 
