@@ -1,4 +1,4 @@
-# mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections.
+# mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections. (EMNLP 2021)
 
 [https://arxiv.org/abs/2205.12005](https://arxiv.org/abs/2205.12005)
 
